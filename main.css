@@ -126,16 +126,3 @@ h2 {
   background-color: #73A8C2;
   text-decoration: none;
 }
-.social > li {
-  display: inline-block;
-  margin: 0 5px;
-}
-.content-footer > p {
-  color: #F7EDE1;
-}
-a {
-    font-weight: bold;
-    text-decoration: none;
-    color: #F1C863;
-}
-  
